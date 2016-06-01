@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = %q{fastlane@krausefx.com}
 
   spec.summary       = %q{Useful fastlane actions for Ruby projects}
-  spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-ruby"
+  spec.homepage      = "https://github.com/KrauseFx/fastlane-plugin-ruby"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
